@@ -1,5 +1,3 @@
-# co6774932af4e81734e287cce
-
 ## Conversion Project 
 
 - A Metric/Imperial Unit Conversion user interface using HTML, CSS and JavaScript 
